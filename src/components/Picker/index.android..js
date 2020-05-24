@@ -7,8 +7,8 @@ const Picker = ({onChange}) => {
     <PickerView>
       <RNPickerSelect
         style={{
-          inputAndroid: {
-            //inputIOS: {
+          //inputAndroid: {
+          inputIOS: {
             height: 50,
             padding: 5,
             backgroundColor: '#FFF',
