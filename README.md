@@ -1,7 +1,6 @@
 # Tecnologias
 
-React Native
 
-Firebase
-
-Firebase Auth
+- React Native 
+- Firebase 
+- Firebase Auth
