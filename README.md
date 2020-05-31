@@ -1,4 +1,7 @@
-![Logo Financial control](https://github.com/marcoavfcc01121979/FinancialControl/blob/master/src/assets/Logo.png)
+<p align="center">
+ <img src="https://github.com/marcoavfcc01121979/FinancialControl/blob/master/src/assets/Logo.png"></img>
+</p>
+
 
  # :rocket: Tecnologias
 
