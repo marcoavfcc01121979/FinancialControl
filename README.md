@@ -3,16 +3,13 @@
 </p>
 
 
-<p align="center">
-  [Tecnologias](#Tecnologias)
-</p>
 
  # :rocket: Tecnologias
 
 
 - [React Native](https://reactnative.dev/) 
-- Firebase 
-- Firebase Auth
+- [Firebase](https://firebase.google.com/) 
+- [Firebase Auth](https://firebase.google.com/)
 
 
 # :computer: Projeto
